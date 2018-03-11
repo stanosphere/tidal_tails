@@ -7,5 +7,5 @@ This was my 3rd year computational project. I needed to investigate the properti
 
 ## Run
 
-```python3 Animations.py``` to see animation of interaction
-```python3 5_Rings.py``` to see animation of 5 rings
+- ```python3 Animations.py``` to see animation of interaction
+- ```python3 5_Rings.py``` to see animation of 5 rings
